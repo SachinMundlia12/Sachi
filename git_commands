@@ -8,3 +8,6 @@
     git remote remove origin
     git remote add origin https://github.com/SachinMundlia12/Sachi.git
     git push origin main
+
+    git clone <Link>
+    git pull origin main
